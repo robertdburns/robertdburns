@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Robert Burns, I'm a Computer Engineering student at Cal Poly, San Luis Obispo.
+
 <!--
 **robertdburns/robertdburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
